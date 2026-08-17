@@ -46,4 +46,6 @@ Percona Distribution for MySQL: High Availability with Group Replication Solutio
 <br>
 <br>
 <a href=https://www.odbms.org/2026/04/inside-mysql-20-years-of-source-code-open-source-contributions-and-what-comes-next-a-conversation-with-marcelo-altmann/>Inside MySQL: 20 Years of Source Code, Open Source Contributions, and What Comes Next. A Conversation with Marcelo Altmann</a>
-
+<br>
+<br>
+<a href=https://arpitbhayani.me/blogs/mysql-replication-internals>MySQL Replication Internals</a>
