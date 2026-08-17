@@ -28,6 +28,9 @@ Percona Distribution for MySQL: High Availability with Group Replication Solutio
 <br>
 <br>
 <a href=https://lemikaelf.github.io/blog/posts/mysql-read-uncommitted/>Pitfalls of MySQL's READ UNCOMMITTED</a>
+<br>
+<br>
+<a href=https://www.tusacentral.net/joomla/index.php/mysql-blogs/243-mysql-on-kubernetes-demystified>MySQL on Kubernetes demystified</a>
 
 ## development
 
@@ -40,8 +43,5 @@ Percona Distribution for MySQL: High Availability with Group Replication Solutio
 <br>
 <br>
 <a href=https://github.com/malderete/mysql_belgium_days_2026/blob/main/src/mysqldays.cc>mysql_belgium_days_2026<a>
-<br>
-<br>
-<a href=https://www.tusacentral.net/joomla/index.php/mysql-blogs/243-mysql-on-kubernetes-demystified>MySQL on Kubernetes demystified</a>
 
 
