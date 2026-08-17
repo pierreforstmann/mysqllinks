@@ -11,6 +11,9 @@
 <a href=https://oneuptime.com/blog/post/2026-01-27-mysql-innodb-effectively/view> How to use MySQL InnoDB Effectively</a>
 <br>
 <br>
+<a href=https://docs.oracle.com/cd/E17952_01/mysql-8.0-en/performance-schema-statement-digests.html>Performance Schema Statement Digests and Sampling</a>
+<br>
+<br>
 <a href=https://dev.mysql.com/doc/refman/8.0/en/innodb-information-schema-examples.html>Using InnoDB Transaction and Locking Information</a>
 <br>
 <br>
