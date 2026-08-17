@@ -43,5 +43,7 @@ Percona Distribution for MySQL: High Availability with Group Replication Solutio
 <br>
 <br>
 <a href=https://github.com/malderete/mysql_belgium_days_2026/blob/main/src/mysqldays.cc>mysql_belgium_days_2026<a>
-
+<br>
+<br>
+<a href=https://www.odbms.org/2026/04/inside-mysql-20-years-of-source-code-open-source-contributions-and-what-comes-next-a-conversation-with-marcelo-altmann/>Inside MySQL: 20 Years of Source Code, Open Source Contributions, and What Comes Next. A Conversation with Marcelo Altmann</a>
 
