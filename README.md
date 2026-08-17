@@ -11,6 +11,9 @@
 <a href=https://oneuptime.com/blog/post/2026-01-27-mysql-innodb-effectively/view> How to use MySQL InnoDB Effectively</a>
 <br>
 <br>
+<a href=https://dev.mysql.com/doc/refman/8.0/en/innodb-information-schema-examples.html>Using InnoDB Transaction and Locking Information</a>
+<br>
+<br>
 <a href=https://www.percona.com/blog/innodb-cluster-in-a-nutshell-part-1/>InnoDB Cluster in a nutshell part 1: Group Replication </a>
 <br>
 <br>
