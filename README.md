@@ -27,7 +27,7 @@
 Percona Distribution for MySQL: High Availability with Group Replication Solution </a>
 <br>
 <br>
-<a href=https://lemikaelf.github.io/blog/posts/mysql-read-uncommitted/>Pitfalls of MySQL's READ UNCOMMITTED<</a>
+<a href=https://lemikaelf.github.io/blog/posts/mysql-read-uncommitted/>Pitfalls of MySQL's READ UNCOMMITTED</a>
 
 ## development
 
