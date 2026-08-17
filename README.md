@@ -34,6 +34,9 @@ Percona Distribution for MySQL: High Availability with Group Replication Solutio
 <br>
 <br>
 <a href=https://www.tusacentral.net/joomla/index.php/mysql-blogs/243-mysql-on-kubernetes-demystified>MySQL on Kubernetes demystified</a>
+<br>
+<br
+<a href=https://mysqlentomologist.blogspot.com/>Blog of (former?) MySQL Entomologist</a>
 
 ## development
 
@@ -52,3 +55,4 @@ Percona Distribution for MySQL: High Availability with Group Replication Solutio
 <br>
 <br>
 <a href=https://arpitbhayani.me/blogs/mysql-replication-internals>MySQL Replication Internals</a>
+
