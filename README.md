@@ -27,13 +27,13 @@ Percona Distribution for MySQL: High Availability with Group Replication Solutio
 
 <a href=https://oneuptime.com/blog/post/2026-01-30-mysql-user-defined-functions/view>How to Create MySQL User-Defined Functions </a><br>
 <br>
-<a href=https://blog.certcube.com/mysql-udf-basics-and-exploitation/>Mysql UDF Basics and Exploitation</a>
+<a href=https://blog.certcube.com/mysql-udf-basics-and-exploitation/>MySQL UDF Basics and Exploitation</a>
 <br>
 <br>
 <a href=https://blogs.oracle.com/mysql/wp-content/uploads/sites/102/2026/02/MySQL-days-2026_-MySQL-Audit-plugins-the-missing-manual.pdf>MySQL Audit plugins the missing manual</a>
 <br>
 <br>
-<a href=https://github.com/malderete/mysql_belgium_days_2026/blob/main/src/mysqldays.cc>mysql_blegium_days_2026<a>
+<a href=https://github.com/malderete/mysql_belgium_days_2026/blob/main/src/mysqldays.cc>mysql_belgium_days_2026<a>
 <br>
 <br>
 
