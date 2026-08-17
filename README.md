@@ -6,6 +6,9 @@
 <a href=https://oneuptime.com/blog/post/2026-03-31-mysql-events-statements-summary-tables/view>How to Use the events_statements_summary Tables in MySQL</a>
 <br>
 <br>
+<a href=https://oneuptime.com/blog/post/2026-01-27-mysql-innodb-effectively/view> How to use MYSQL InnodB Effectively</a>
+<br>
+<br>
 <a href=https://www.percona.com/blog/innodb-cluster-in-a-nutshell-part-1/>InnoDB Cluster in a nutshell part 1: Group Replication </a>
 <br>
 <br>
