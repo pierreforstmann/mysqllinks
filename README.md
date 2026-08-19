@@ -38,6 +38,8 @@ Percona Distribution for MySQL: High Availability with Group Replication Solutio
 <br>
 <a href=https://mysqlentomologist.blogspot.com/>Blog of (former?) MySQL Entomologist</a>
 
+<a href=https://blogs.oracle.com/mysql/why-your-application-should-not-use-one-mysql-user-for-everything>Why Your Application Should Not Use One MySQL User for Everything</a>
+
 ## development
 
 <a href=https://oneuptime.com/blog/post/2026-01-30-mysql-user-defined-functions/view>How to Create MySQL User-Defined Functions </a><br>
